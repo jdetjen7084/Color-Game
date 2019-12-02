@@ -25,7 +25,7 @@ for(let i = 0; i < squares.length; i++) {
         if(clickedColor === pickedColor) {
             alert("Correct!");
         } else {
-            alert("Nope!")
+            this.style.backgroundColor = "#232323"
         }
     })
 
