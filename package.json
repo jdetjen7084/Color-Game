@@ -1,0 +1,29 @@
+{
+  "name": "colorgame",
+  "version": "1.0.0",
+  "description": "Simple RGB color game",
+  "main": "colorGame.js",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdetjen7084/Color-Game.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JS",
+    "RGB"
+  ],
+  "author": "Justin Detjen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdetjen7084/Color-Game/issues"
+  },
+  "homepage": "https://github.com/jdetjen7084/Color-Game#readme"
+}
